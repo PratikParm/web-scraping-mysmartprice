@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web scraping tool that extracts data from [insert target website or data source]. It utilizes Python libraries such as `requests`, `BeautifulSoup`, and `Selenium` to gather and process the data efficiently.
+This project is a web scraping tool that extracts data from `mysmartprice.com`. It utilizes Python libraries such as `requests`, `BeautifulSoup`, and `Selenium` to gather and process the data efficiently.
 
 ## Features
 
@@ -27,7 +27,7 @@ This project is a web scraping tool that extracts data from [insert target websi
 
 ## Usage
 
-Run the ```main.py``` file to get the basic and specific data of the earbuds given in ```data```.
+Run the `main.py` file to get the basic and specific data of the earbuds given in `data`.
 ```bash
    python main.py
 
