@@ -1,0 +1,46 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+Lib/
+Scripts/
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+eggs-info/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# My IDE or Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Jupyter Notebook Check
